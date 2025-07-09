@@ -5,6 +5,14 @@
 This is the **Spring Boot backend** for the project, built to handle user management, product operations, and intelligent restocking with AI integration.
 
 ---
+🙋‍♀️ About Me
+Deepshikha Bhardwaj
+🎓 3rd Year CSE Student | 💻 Full-Stack Developer | ✨ AI Explorer
+
+I’m building StockWise to learn how real-world products are designed — from user auth to AI-powered features. This backend is fully version-controlled and part of a larger full-stack app coming soon!
+
+🌐 Related Repos
+Frontend (Coming Soon)
 
 ## 🚀 Tech Stack
 
@@ -66,11 +74,4 @@ bash
 Copy
 Edit
 ./mvnw spring-boot:run
-🙋‍♀️ About Me
-Deepshikha Bhardwaj
-🎓 3rd Year CSE Student | 💻 Full-Stack Developer | ✨ AI Explorer
 
-I’m building StockWise to learn how real-world products are designed — from user auth to AI-powered features. This backend is fully version-controlled and part of a larger full-stack app coming soon!
-
-🌐 Related Repos
-Frontend (Coming Soon)
